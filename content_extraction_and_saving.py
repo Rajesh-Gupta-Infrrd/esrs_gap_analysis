@@ -113,13 +113,13 @@ if __name__ == "__main__":
     public_vector_store = MilvusVectorStore(
         collection_name="publicDocuments",
         embedding_model="text-embedding-3-small",
-        milvus_uri="poc_vector_store.db",
+        milvus_uri="docling_vector_store.db",
         load_local=True
     )
     esrs_vector_store=MilvusVectorStore(
         collection_name="esrsDocuments",
         embedding_model="text-embedding-3-small",
-        milvus_uri="poc_vector_store.db",
+        milvus_uri="docling_vector_store.db",
         load_local=True
     )
     # Create processor
