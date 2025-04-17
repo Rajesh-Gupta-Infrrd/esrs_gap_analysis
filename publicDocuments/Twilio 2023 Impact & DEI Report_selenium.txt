@@ -1,0 +1,828 @@
+4th Annual Impact Report
+
+Twilio’s 2023 Impact and DEI Report
+
+Connecting our product, capital, and people to advance our environmental, social, and governance (ESG) work.
+
+Letter from the CEO
+
+Back in 2013, we established Twilio.org to harness the power of our communications solutions for good. Today we are celebrating over a decade of Twilio.org helping social impact organizations expand their reach and scale their missions.
+
+Reflecting back on the last ten years, I’m immensely proud of the role Twilio.org has played in supporting organizations to scale their impact both globally and locally. Ultimately, our technology is used by more than 20,000 social impact organizations to establish a connection with the communities they serve. On a global scale, the connection is in action to drive vaccinations and combat misinformation during global crises like COVID-19. That connection has also been established on a local level, for example, to ensure senior citizens who face food insecurity are notified that their donated meals are on the way.
+
+When it comes to solving the big social issues of our world, these connections have the potential to alter the course of people’s lives. For instance, Polaris, which operates the U.S. National Human Trafficking Hotline, uses Twilio Flex to connect victims, survivors, and those supporting them to essential resources and service provider referrals. Similarly, the Trevor Project, a suicide prevention organization focused on LGBTQIA+ youth, introduced its TrevorText service, allowing them to help more youth in crisis, faster. Additionally, Atma Connect uses SMS to deliver locally-relevant alerts to flood-prone communities in Indonesia. All these organizations inspire us daily by innovating with our technology to solve some of the world’s toughest challenges.
+
+As we look to the future, we are facing a huge opportunity to accelerate this work with AI. We have endless opportunities to help these organizations continue to innovate with the power of Twilio’s communications offerings, our data capabilities, and AI infused throughout to accelerate their impact. I look forward to seeing what’s next for these organizations as they continue to push the bounds of what we can accomplish with technology.
+
+Let's go!
+
+Khozema Shipchandler
+
+2023 highlights
+
+Chapter 1
+
+Celebrating 10 years of impact with Twilio.org
+
+Delivering meaningful impact at incredible scale
+
+2023 product impact results
+
+Three focus areas that define our impact
+
+Twilio’s platform: Dependability precisely when it matters most
+
+Chapter 2
+
+Twilio.org Impact Fund: Fueling positive change
+
+Digital Innovation: Scaling social impact through tech-inclusive funding
+
+Accelerating innovation with Twilio.org’s Customer Acceleration Fund
+
+Chapter 3
+
+Living the Twilio Magic for 15 years
+
+Thriving in a remote-first environment
+
+2023 employee impact results
+
+Diversity, equity, and inclusion: Making progress for all
+
+Building communities with ERGs
+
+2023 workforce representation data
+
+Our continued commitment to DEI
+
+Prioritizing employee wellbeing and growth
+
+Chapter 4
+
+Reducing our environmental impact
+
+Our science-based greenhouse gas emissions reduction target
+
+Sustainable operations
+
+Environmental sustainability data
+
+Building an ethical business
+
+Corporate Governance
+
+ESG oversight
+
+ESG materiality assessment
+
+Risk management
+
+Code of Conduct
+
+Whistleblower protection and anti-harassment, anti-discrimination, and anti-retaliation
+
+Human rights
+
+Public policy positions and lobbying disclosures
+
+Advancing the United Nations Sustainable Development Goals
+
+Building a trusted business
+
+Data privacy
+
+Data security
+
+Business continuity
+
+Trusted communications
+
+Artificial intelligence
+
+Accessible design
+
+Sustainability Accounting Standards Board (SASB) index
+
+Forward-looking statements
+
+2023 Impact and DEI Report
+
+Using our technology for good
+
+Read chapter 1
+
+Investing for positive social impact
+
+Read chapter 2
+
+Building a culture by empowering our people
+
+Read chapter 3
+
+Building a responsible, ethical business
+
+Read chapter 4
+
+Read our previous reports
+
+2022 Report 2021 Report 2020 Report
+
+Footnotes
+
+1 We define a “person reached” as an individual who has sent or received a message or phone call through one of our Twilio.org customers. We count each phone number only once, even if they have engaged multiple customers or received multiple messages. This count also includes the unique number of individuals who have received emails from Twilio.org customers that do not also use Twilio’s messaging and voice products. This information is tracked (anonymously) via Twilio’s backend system. This metric may exclude individuals who were contacted by one of our Twilio.org customers through products other than messaging, voice, and email.
+
+2 We define social impact customers as the eligible social impact organization types listed here that have usage in December 2023. A single social impact organization may use multiple unique active accounts.
+
+3 Includes employee donations, Twilio’s matching donations, and volunteer and giving rewards from Twilio.
+
+4 To calculate grants and donations provided in 2023, we count dollars the Twilio.org Impact Fund deployed in 2023, including capital that was committed in previous years and deployed in 2023.
+
+Chapter 1
+
+Using our technology for good
+
+Chapter 1
+
+Celebrating 10 years of impact with Twilio.org
+
+Delivering meaningful impact at incredible scale
+
+2023 product impact results
+
+Three focus areas that define our impact
+
+Twilio’s platform: Dependability precisely when it matters most
+
+Celebrating 10 years of impact with Twilio.org
+
+In 2013, Twilio created Twilio.org, Twilio’s social impact arm, to help nonprofits create social impact at scale. A decade later, we are proud to support over 20,000 social impact organizations5 that collectively reach over half a billion people each year.6 These organizations range from large, global organizations such as the Red Cross and UNICEF to thousands of small nonprofits operating in local neighborhoods around the world. They spark hope, justice, and joy in the world by connecting people with vital resources where and when they need them. As we look ahead to the next decade, we will continue to find ways to unleash Twilio’s product, capital, and people for the greater good.
+
+Back to top
+
+Delivering meaningful impact at incredible scale
+
+At Twilio, we believe business should leave society better than we found it. We leverage our technology, our people, and our capital to help nonprofits expand their reach and scale their missions.
+
+Social impact organizations count on our digital communications and engagement tools to better reach, understand, and serve their audiences. Nearly 90% of nonprofits report that digital communications like text messaging, chatbots, voice, and video are critical to achieving their missions. Twilio’s digital tools make it possible for nonprofits to reach and engage individuals wherever they’re located, everyday. From improving access to healthcare, to connecting families with meals, to streamlining mental health support, our technology makes it possible for more people to be seen, heard, and supported.
+
+Equitable healthcare at scale
+
+CareMessage, a nonprofit communications platform for healthcare companies, wanted to help safety-net organizations meet the needs of underserved populations. By leveraging Twilio SMS and Voice, CareMessage enables healthcare professionals to deliver messages when and how their patients prefer. Using Twilio, CareMessage has served over 50,000 patients from underserved populations, booking 12,000 appointments in a single day and delivering 1.5M messages in 12 months—saving lives by helping people access the care they need.
+
+Food security at scale
+
+Many people who need food assistance must endure stressful, hours-long wait times to access a meal. City Harvest and the United Way of New York City created a mobile app called Plentiful to let families schedule food pick-up times with local pantries. Using Twilio Programmable Messaging, City Harvest’s SMS-based reservation system has saved people 500,000+ hours of waiting in lines and increased engagement in food pantry programs by 4X over its mobile app experience. That all adds up to helping more people find resources faster and get access to food with dignity.
+
+Mental health support at scale
+
+The National Alliance of Mental Health Illness (NAMI) wanted to simplify access to mental health support, but technical challenges made communication slow and unreliable. With Twilio Flex, NAMI is able to provide multiple channels for people to seek help for themselves or those they love. In 2020, when there was an increase in mental illness cases due to the COVID-19 pandemic, the organization was able to multiply its volunteer team and help 65-70% more help seekers—and that number continues to grow.
+
+Back to top
+
+2023 product impact results
+
+Back to top
+
+Three focus areas that define our impact
+
+Over the past decade, thousands of social impact organizations have utilized Twilio’s resources to tackle significant challenges. While organizations spanning various issue areas use Twilio, we've identified three key areas where our products, funding, and skills are particularly suited to make a substantial impact: scaling humanitarian aid, addressing climate change, and promoting long-term wellbeing. These areas are interconnected; without addressing climate change, humanitarian crises will worsen, and without increased support and resources for those impacted by these crises, we can’t begin to rebuild and strengthen communities, nor support them in gaining the long-term stability that they deserve.
+
+Back to top
+
+When people are displaced by a crisis, every minute counts—and delivering information and assistance via mobile devices is both fast and effective. This is how Twilio’s technology makes an outsized impact. Since the start of the Ukraine conflict in February 2022 through December 2023, nonprofits have used Twilio to reach eight million individuals6 and send over 68 million messages7 to help those affected by the conflict.
+
+Among these nonprofit organizations is The International Federation of Red Cross and Crescent Societies (IFRC), the world’s largest humanitarian network. The IFRC partnered with Twilio to create a digital registration system through SMS and WhatsApp that delivers cash and voucher assistance at scale—rapidly getting money into the hands of people when they need it most.
+
+A selection of nonprofits delivering humanitarian aid at scale:
+
+Reducing the impact of climate change is one of humanity’s greatest challenges—and one of its greatest opportunities to showcase the power of collective action. Twilio is uniquely positioned to help nonprofits tackle climate change at scale, with technologies that help organizations reduce energy consumption, build climate resilience, and connect people displaced by climate-related disasters with the resources they need.
+
+One of our climate cohort grantees, Citizens’ Climate Education (CCE), is a nonpartisan organization that relies on the power of technology to enhance its outreach and engagement strategy. CCE mobilizes thousands of people at once through SMS.8 By sending SMS to its powerful corps of climate volunteers, CCE has raised funding and ensured that volunteers are successful in sharing effective climate solutions with the general public.
+
+A selection of nonprofits addressing climate change at scale:
+
+We believe our technology and funding can help knock down systemic barriers that prevent people from living to their full potential. Many components make up an individual’s wellbeing - from economic mobility to health equity - yet systemic barriers make it difficult for many people to lead more fulfilling lives. Twilio’s resources help ensure equitable access to information and support services. One such example is how we support historically marginalized workers to overcome workplace challenges.
+
+Empower Work is a nonprofit that serves historically marginalized workers, including an estimated 40 million Americans who experience high levels of stress and anxiety at work and feel stuck and overwhelmed.9 As a recipient of one of our Digital Innovation Grants, Empower Work created the first confidential, third-party SMS hotline for lower-wage workers in need of advice. With help from Twilio, Empower Work connects workers with trained peer counselors via text message – delivering free, confidential support that helps them navigate difficult moments or issues at work.
+
+A selection of nonprofits advancing long-term wellbeing:
+
+Back to top
+
+Twilio’s platform: Dependability precisely when it matters most
+
+When lives and livelihoods depend on reliable communication, every message matters. Trust is everything. We understand that the reliability and dependability of our platform can make a critical difference in affecting lives for good. That’s why we continue to build best practices and standards that strengthen trust, security, and privacy among all stakeholders.
+
+Trusted to support those impacted by human trafficking
+
+Polaris, a survivor-centered organization, combats human trafficking in all its forms. Operating the U.S. National Human Trafficking Hotline since 2007, Polaris reports that it has connected over 75,000 victims and survivors to support.10 With a Twilio.org Digital Innovation Grant, Polaris enhanced its hotline, including upgrades such as a chatbot for text messaging that made it much easier and faster for individuals to request and receive assistance.
+
+“Our partnership with Twilio has enabled us to test-drive our mission-engineering approach to problem solving, and set us up for even bigger and better data modernization moves for the anti-trafficking movement.”
+
+—Patrick McIntyre, Chief Development and External Affairs Officer, Polaris
+
+Trusted to warn those at risk during a natural disaster
+
+Immediacy is everything during a natural disaster. In Indonesia, where massive floods are common, disaster warnings can make the difference between life and death. Since most Indonesians have mobile devices, Atma Connect uses text-based communications to deliver locally-relevant alerts. With Twilio Programmable Messaging, the nonprofit sends text messages of urgent flood warnings and other critical news that help save lives and reduce damages.
+
+“Twilio allows us to break through the mobile phone environment… you’re always going to get a notification on SMS. It gives us a way to immediately reach users.”
+
+—Meena Palaniappan, Founder and CEO, Atma Connect
+
+Trusted to provide support to those experiencing a mental health crisis
+
+For over 20 years, The Trevor Project has provided free, confidential crisis intervention and suicide prevention services for LGBTQ+ youth. As their technology platform began to age, they knew every communications delay could have disastrous consequences. Making the switch to Twilio shortened text interactions, streamlined agent workflows, and unified engagement channels—helping their teams serve more people in crisis.
+
+“When we switched our TrevorText service to Twilio, the results were remarkable…. Given the speed and reliability of the platform, we were able to trim 10 seconds off of each interaction. Every single person we talk to is getting the help they need faster.”
+
+—Amit Paley, Former CEO and Executive Director, The Trevor Project
+
+Back to top
+
+2023 Impact and DEI Report
+
+Using our technology for good
+
+Chapter 1
+
+Investing for positive social impact
+
+Read chapter 2
+
+Building a culture by empowering our people
+
+Read chapter 3
+
+Building a responsible, ethical business
+
+Read chapter 4
+
+Footnotes
+
+5 We define social impact customers as the eligible social impact organization types listed here that have usage in December 2023. A single social impact organization may use multiple unique active accounts.
+
+6 We define a “person reached” as an individual who has sent or received a message or phone call through one of our Twilio.org customers. We count each phone number only once, even if they have engaged multiple customers or received multiple messages. This count also includes the unique number of individuals who have received emails from Twilio.org customers that do not also use Twilio’s messaging and voice products. This information is tracked (anonymously) via Twilio’s backend system. This metric may exclude individuals who were contacted by one of our Twilio.org customers through products other than messaging, voice, and email.
+
+7 Measures the total number of messages sent through one of our Twilio.org social impact customers. Multiple messages can be sent to one individual.
+
+8 Twilio product usage is not a condition to be considered for Impact Fund grants or donations.
+
+9 “Nonprofit Empower Work helps people deal with discrimination, harassment on the job” (https://www.youtube.com/watch?v=XYdwiVRIXY0).
+
+10 https://polarisproject.org/our-impact/
+
+Chapter 2
+
+Investing for positive social impact
+
+Chapter 2
+
+Twilio.org Impact Fund: Fueling positive change
+
+Digital Innovation: Scaling social impact through tech-inclusive funding
+
+Accelerating innovation with Twilio.org’s Customer Acceleration Fund
+
+2023 funding impact results
+
+The Twilio.org Impact Fund14 provides grants and investments that help nonprofits and social enterprises accelerate digital transformation in order to make a bigger impact. We prioritize platforms and strategies that align with our key focus areas: supporting displaced communities, spurring climate action, and building equitable long-term wellbeing.
+
+Back to top
+
+
+
+Our five funding cohorts
+
+The Impact Fund allocates capital to nonprofit organizations and social enterprises across five strategically aligned cohorts, ranging from activating our employees and supporting our local communities, to fostering broader digital adoption within nonprofits and mobilizing for climate education and humanitarian action.
+
+If your nonprofit is interested in learning about how our grants could help accelerate your organization’s impact, visit our website to include your organization in future open call grant rounds.
+
+Digital Innovation Cohort
+
+Organizations accelerating impact using transformative digital communications technology with the goal of serving underrepresented populations at scale.
+
+Climate Action Cohort
+
+Organizations working to educate, engage, and mobilize citizens to take climate action through digital education and awareness.
+
+Humanitarian (Crisis Response) Cohort
+
+Organizations committed to supporting the needs of people displaced by crises, a need that is growing in tandem with climate change.
+
+WePledge Grant Cohort
+
+Partnerships that activate employees to pledge 1% of their time, money, or equity to support the causes they believe in most.
+
+Commit to San Francisco Grant Cohort
+
+Organizations working to prevent youth homelessness in the Bay Area through upskilling, workforce development, and support for housing stability.
+
+Back to top
+
+Digital Innovation: Scaling social impact through tech-inclusive funding
+
+Many nonprofits want to make progress on digital transformation goals, but lack the developers and funds needed to build new technologies. In fact, only 1 in 4 nonprofits report having the developer talent they need. This disconnect is partly driven by existing funding models often being too restrictive, treating talent and technology as overhead costs instead of as investments. Worse, funding can take many months or even years to come through.
+
+Twilio.org’s Digital Innovation Grant initiative seeks to empower nonprofits with the resources they need for digital transformation, recognizing the importance of technology in achieving their missions. We call this ‘tech-inclusive funding’. Our Digital Innovation Grants also fill a gap in the funding spectrum with a process that delivers a decision in weeks instead of months. The funds are meant to be flexible, which means they can support costs from personnel to technology infrastructure, programmatic functions, and more. Nonprofits can use these funds to experiment with new models of service delivery—helping them garner follow-on funding from governments, foundations, and individual donors.
+
+2023 Digital Innovation Grant results
+
+Tech-inclusive funding to drive impact at scale.
+
+Supported 33 nonprofits with $3.2M USD in grant funding11
+
+50% are founded or led by a woman, 34% are founded or led by a person of color, and 18% are founded or led by a member of the LGBTQ+ community
+
+69M people are expected to be supported over the course of these digital innovation projects13
+
+Back to top
+
+Accelerating innovation with Twilio.org’s Customer Acceleration Fund
+
+As we look ahead, we aim to find new ways to continue building the technical capacity of nonprofits, beyond the Digital Innovation Grant initiative. In Q2 2024, Twilio.org launched the Customer Acceleration Fund (CAF) to bolster nonprofits’ technical capabilities through tailored consultative services. The inaugural CAF prioritizes 501(c)(3) organizations in the healthcare, education, and humanitarian sectors that want to work with Twilio.org and its network of 30+ technology partners to bring their digital initiatives to life. Twilio.org will select the technology partner and provide funding up to $25,000 USD to design and/or implement a solution tailored to the nonprofit’s specific needs.
+
+Let’s partner for impact
+
+Back to top
+
+2023 Impact and DEI Report
+
+Using our technology for good
+
+Read chapter 1
+
+Investing for positive social impact
+
+Chapter 2
+
+Building a culture by empowering our people
+
+Read chapter 3
+
+Building a responsible, ethical business
+
+Read chapter 4
+
+Footnotes
+
+11 To calculate grants and donations provided in 2023, we count dollars the Twilio.org Impact Fund deployed in 2023, including capital that was committed in previous years and deployed in 2023.
+
+12 Product credits include $100 USD in product credits for each social impact customer that joins Twilio.org’s Impact Access Program. Product discounts are estimated as the average discounts for our identified social impact customers excluding for-profit customers with a social impact use case.
+
+13 We collect the expected number of people served by our grantees through grantee applications. These numbers are only estimates and are subject to change over the course of the grant. Not all grantees estimate the number of people they will serve over the course of their grant period.
+
+14 Our grants are made possible through the Twilio 1% equity pledge. In 2015, we reserved 1% of our common stock to fund the Twilio.org Impact Fund. Grant funding made in 2023 does not come from our operating budget or impact our path to profitability.
+
+Chapter 3
+
+Building a culture by empowering our people
+
+Chapter 3
+
+Living the Twilio Magic for 15 years
+
+Thriving in a remote-first environment
+
+2023 employee impact results
+
+Diversity, equity, and inclusion: Making progress for all
+
+Building communities with ERGs
+
+2023 workforce representation data
+
+Our continued commitment to DEI
+
+Prioritizing employee wellbeing and growth
+
+Living the Twilio Magic for 15 years
+
+Want to know how Twilio has spent the past 15 years building positive change across the globe? By making sure Twilions are able to feel supported, respected, and empowered to be their best selves and do their best work. Our culture helps Twilions to inspire others to do the same.
+
+Twilio Magic
+
+At Twilio, the heartbeat of our organization is the Twilio Magic. The Twilio Magic represents the set of values that embody our aspirations in service of our customers. When you first step foot into Twilio, you immediately sense the power of The Magic - not just in the words on a page, but in the way our team lives and breathes these values to continuously push boundaries and excel.
+
+The Magic consists of four foundational piillars: We are Builders, We are Owners, We are Curious, and We are Positrons. Twilio finds itself navigating a rapidly evolving landscape in 2024, yet the Twilio Magic remains steadfast. As we look ahead, new horizons and obstacles will undoubtedly appear, but our values will remain a guiding force - shaping how we approach our work, fostering a culture of shared responsibility in driving innovation, and solving challenges together as a team.
+
+New hire experiences
+
+New Twilions are immediately enveloped in the Twilio Magic through our New Hire Journey Program. New Twilions are matched with experienced team members who act as mentors to guide them through a seamless onboarding process. This 90-day program is designed to provide a structured introduction to Twilio's values, culture, history, technology, and products. New hires also have the opportunity to engage with Twilio.org, our social impact arm, and can participate in a volunteer event with Twilio.org within their first 100 days.
+
+Twilio Magic venn diagram.
+
+The track jacket project
+
+The iconic red track jacket at Twilio is highly sought-after by Twilions, and there is only one way to earn one: by building an app using the Twilio platform. Our Track Jacket workshop allows Twilions to wear our customers' shoes and share a common experience with them by creating an app using Twilio's platform and products. Upon presenting their newly developed apps to their teams, Twilions earn their coveted red track jacket.
+
+Twilioversaries
+
+Anniversary milestones are cherished at Twilio, and we take great pleasure in honoring them. Twilions receive heartfelt virtual cards, cheers, and special gifts on their 1st, 5th, and 10th anniversaries, all inspired by significant symbols within the history of Twilio. These symbols include our 1st year hoodie, the 5th year bronze shoes to reflect wearing our customers' shoes, and the 10th anniversary Silver Pizza Box which pays tribute to the final checklist used to launch Twilio, written on the back of a pizza box.
+
+Back to top
+
+Thriving in a remote-first environment
+
+Open Work is our approach to empowering Twilions to thrive in a remote-first environment through the opportunity to make an impact regardless of location, purposeful connection, and flexibility. It’s not just about being a remote-first company; it’s how we connect with each other, contribute to the business, and make a bigger impact on the world.
+
+How we activate Open Work
+
+Impact, connection, and flexibility are central to our approach. We make sure every Twilion has access to the tools, resources, and opportunities they need to be productive, make an impact and pursue thriving careers. We believe healthy teams are built and sustained through purposeful connection, so we prioritize coming together in meaningful ways. We also operate flexibly within a framework that enables us to maintain a balance between our personal and professional lives.
+
+A core pillar of Open Work is around enabling healthy, connected teams in our remote-first environment. In 2023, 80% of Twilions reported that they feel connected to their teams. That year we experimented with new connection programs, and the engagement across each program validated the importance of Twilions connecting meaningfully in our remote-first environment. Initiatives included:
+
+Piloting a virtual team building experience program with 230 teams.
+
+Testing new Offsite In a Box resources, including ready-to-use agenda and activities templates.
+
+Ensuring each of our Hubs (cities where many Twilions are located) hosted year-end celebrations that nearly 1,500 Twilions attended.
+
+How we see the future of Open Work
+
+Twilions are thriving in a remote-first environment, doing work that matters wherever they’re located. After two years of embracing remote-first work, we’re applying what we’ve learned to support our globally-distributed workforce even more. We see this process as a continual evolution. We’ll keep listening to what Twilions need to make Twilio a better place to work, together.
+
+Back to top
+
+2023 employee impact results
+
+Key learnings: Uncovering lessons for the future
+
+In 2023, we saw volunteer hours decline over the year prior—due in part to workforce reductions and a pause in matching gifts. At the same time, we saw an increase in the percentage of Twilions who volunteered. This is no accident. We’ve worked to grow our culture of volunteering by building strong nonprofit partnerships, collaborating with Employee Resource Groups (ERGs), and working directly with people managers to incorporate volunteer opportunities into team gatherings, both virtually and in person. We launched the "Team Volunteering Toolkit", which empowered Twilions with step by step planning guidance, including recommended nonprofit partners, to incorporate volunteering into team events. We’ve learned that Twilions view volunteerism as a core part of the company culture and that embedding volunteerism into existing culture programs and team offsites proved successful in sustaining our social impact efforts.
+
+Back to top
+
+Diversity, equity, and inclusion: Making progress for all
+
+Our vision for diversity, equity, and inclusion (DEI) is clear: To make Twilio more equitable and inclusive for all employees across the globe. In 2023, we took actions to support key DEI programs and initiatives, support Twilions of all backgrounds and identities, and foster an environment where we can build great things together.
+
+Building communities with ERGs
+
+Employee Resource Groups (ERGs) are foundational to inclusivity, connection, and community. Our ERGs help Twilions feel empowered and valued by providing a sense of community and support within the larger organization. Through career development workshops, mentorship and leadership programs, cultural celebrations, and philanthropic endeavors, employees can foster meaningful connections that help them grow personally and professionally.
+
+In 2023, we increased the value of our ERGs in three core ways:
+
+Cultivating career development
+
+Through various DEI and ERG partnerships, we provided a number of programs for career development in 2023, including skill building sessions, educational workshops, and support groups. Many of these programs were designed to help all Twilions from various identities, backgrounds, and circumstances, including family caregivers and LGBTQ+ employees, advance their careers.
+
+Example: 'Involve Rise' Leadership Development
+
+Launched in our EMEA region in 2023, this program helps women develop leadership skills to grow their careers within the organization. Specialized programming equips future leaders with tools and strategies like self-advocacy and partnership-building to enhance personal and professional growth.
+
+Building culture, one event at a time
+
+In 2023, ERGs dedicated themselves to nurturing a sense of community and honoring cultural diversity through a rich tapestry of virtual and in-person events. Across the globe, our diverse group of ERG communities came together for engaging activities such as organized celebrations around cultural holidays and heritage months, book clubs, boba tea-making classes, yoga sessions, and more.
+
+Example: Lunar New Year
+
+In 2023, we celebrated the year of the water rabbit and cat with special catered lunches at our offices around the world, and encouraged Twilions to share pics, videos, and stories of their Lunar New Year traditions.
+
+Example: Pride Celebrations
+
+Our LGBTQ+ ERG, Spectrum, helped unite Twilions around Pride Month, with resources and information about relevant events, opportunities to support LGBTQ+ organizations, and more. In partnership with We Create Space (a queer-led learning platform, community network, and DEI consultancy), we held global, remote workshops on LGBTQ+ history through the lens of Black, Indigenous and people of color.
+
+Enhancing community impact
+
+At Twilio, social impact isn’t relegated to a single day or week. We not only offer year-round opportunities for Twilions to volunteer and give, but we also find ways to increase participation by incorporating social impact into natural touchpoints that help Twilions engage in a more authentic manner. For example, we ensure our ERGs identify opportunities to lift and advance their specific communities. Throughout 2023, our ERGs promoted and participated in giving campaigns for various heritage months, including the Black Twilions ERG volunteering with Historically Black Colleges and Universities and the Spectrum ERG supporting a Transgender Day of Visibility giving campaign.
+
+Example: Honoring Juneteenth
+
+Twilio closes globally on June 19 for all Twilions to observe Juneteenth as a day of learning, reflection, service, and/or activism. In 2023, we co-hosted an event with DEI champion Coqual and provided resources to promote volunteerism, giving, and self-guided learning.
+
+2023 workforce representation data
+
+We are stronger as a business when we attract, develop, and retain a workforce that reflects our customers, communities, and the world. Each year, we collect representational workforce data16 based on voluntary self-identification. This data-driven approach to DEI allows us to understand our workforce and celebrate our progress in increasing representation while ensuring we understand areas of opportunity.
+
+Our continued commitment to DEI
+
+In 2024, Twilio is placing emphasis on further reducing bias in our processes and creating an equitable and inclusive workplace. Our goal is to provide Twilions of all backgrounds and identities the support they need to do their best work, grow, and thrive. To achieve this, we are taking decisive actions built around a two-pronged approach.
+
+We know that advancing our DEI endeavors will take the efforts of every Twilion to help us build a more inclusive and equitable organization for all. We enable Twilions to be champions of DEI by creating programs that foster inclusion via allyship and offer diverse career development opportunities for all levels of the organization.
+
+Our Talent Acquisition and Human Resource Business Partner (HRBP) teams create inclusive hiring practices and drive DEI strategy at an organizational level.
+
+We will launch a global roll-out of Allyship focused enablement inclusive of culturally diverse scenarios that are relative to our remote-first environment.
+
+We want every Twilion to feel a sense of community and belonging, so we are strengthening our focus on building community via ERGs and ecosystem partnerships to help us build the workforce of the future. This includes expanding our global partnerships with a targeted focus on redefining representation, inclusion, and equity for individuals with disabilities or neurodivergence.
+
+ERGs play a crucial role in advancing Twilio’s commitment to inclusion and diversity by fostering connections that promote personal and professional growth and creating inclusive spaces where all Twilions feel empowered and valued.
+
+All Twilions have access to key DEI partnerships including 100 Black Men of America, Catalyst, Paradigm, Insight Timer, and Out in Tech.
+
+Back to top
+
+Prioritizing employee wellbeing and growth
+
+We make comprehensive healthcare and mental health programs available to all Twilions and their families globally. We offer psychological support by providing all Twilions with access to mental health provider visits through our Employee Assistance Program (EAP) as well as regular mental health workshops that raise awareness on risk factors and provide prevention strategies, such as stress management. Training is available for HR staff and managers about how to recognize and respond to an employee struggling with their mental health. Taking time away from work is critical for good mental health; eligible Twilions receive generous paid time off annually, paid holidays, company breaks, and other opportunities for time away to rest.
+
+Twilions have access to paid maternity, paternity, adoption, and family medical care leave plus an inclusive family-forming benefit that supports Twilions in choosing their route to parenthood (via fertility, surrogacy, and/or adoption). To help employees settle in when returning from leaves of absence, we provide a four-week flexible return to work program. We also have a one-time remote work setup perk to ensure employees are equipped to work from home. All of these benefits and perks are available to eligible Twilions, worldwide.
+
+Twilio provides country-specific retirement savings opportunities with company matching contributions in some cases. In an effort to support employees’ financial wellbeing, we invite experts to provide regular education on savings and investing, among other financial topics.
+
+Our approach to employee health and safety
+
+Our Corporate Security team is responsible for proactively identifying and managing safety and health risks that Twilions may face while working in the office or remotely. The team promotes health and safety through policies, procedures, safety training courses, ergonomics, safety audits, risk assessments, and emergency notifications and response.
+
+Resources that spark learning and professional development
+
+In 2023, we offered Twilions access to learning resources and content—including external resources like LinkedIn Learning and BetterUp and internally developed, business-specific training on topics such as leadership development, career development, living the Twilio Magic, and more. Through BetterUp, Twilions were able to access certified coaches online throughout the year.
+
+To support our people managers, we delivered manager-focused workshops, offered a quickstart program for new managers, introduced new manager resources in our management portal, and provided access to six months of 1:1 coaching through BetterUp.
+
+Back to top
+
+2023 Impact and DEI Report
+
+Using our technology for good
+
+Read chapter 1
+
+Investing for positive social impact
+
+Read chapter 2
+
+Building a culture by empowering our people
+
+Chapter 3
+
+Building a responsible, ethical business
+
+Read chapter 4
+
+Footnotes
+
+15 Includes employee donations, Twilio’s matching donations, and volunteer and giving rewards from Twilio.
+
+16 In the US, we follow US Equal Employment Opportunity Commission (EEOC) guidelines in how we track employee data. In all other countries where we operate, we follow region-specific data privacy guidelines in how we track employee data. All employee data is pulled from Twilio’s Workday system as of December 31, 2023. All employee demographic data is self-reported by Twilions. This data includes regular and fixed-term employees only. This data includes employees that are fully integrated with Twilio and will exclude non-integrated employees until the year that they are integrated. “Other” denotes additional employee-defined categories. “Undeclared” denotes employees who selected “Do not wish to declare” as their self-ID selection. This data excludes employees who did not make any self-ID selections. Attrition includes both voluntary and involuntary attrition. Director+ includes employees who are Director-level and above. This group does not include our Board of Directors. Demographic data is based on the most recent self-identification on the day the record was accessed; therefore 2023 totals are based on employee self-identification as of December 31, 2023. "pp" is an abbreviation for percentage point.
+
+17 The attrition data calculated and presented in this report excludes employee attrition from the February and December 2023 restructurings. This adjusted data helps present a clearer picture of comparison from 2022 to 2023. The impact of the 2023 restructurings was not excluded from any other workforce representation data.
+
+Chapter 4
+
+Building a responsible, ethical business
+
+Chapter 4
+
+Reducing our environmental impact
+
+Our science-based greenhouse gas emissions reduction target
+
+Sustainable operations
+
+Environmental sustainability data
+
+Building an ethical business
+
+Corporate Governance
+
+ESG oversight
+
+ESG materiality assessment
+
+Risk management
+
+Code of Conduct
+
+Whistleblower protection and anti-harassment, anti-discrimination, and anti-retaliation
+
+Human rights
+
+Public policy positions and lobbying disclosures
+
+Advancing the United Nations Sustainable Development Goals
+
+Building a trusted business
+
+Data privacy
+
+Data security
+
+Business continuity
+
+Trusted communications
+
+Artificial intelligence
+
+Accessible design
+
+Sustainability Accounting Standards Board (SASB) index
+
+Forward-looking statements
+
+Reducing our environmental impact
+
+Our priorities and commitments
+
+Human activities are changing the earth’s climate, disproportionately affecting historically marginalized and underserved communities, and impacting our health, wellbeing, livelihoods, and security.18
+
+At Twilio, we believe business should leave society better than we found it, which requires us to be thoughtful stewards of our natural resources. We are committed to reducing the environmental impact of our own operations and advancing climate action through our product, capital, and people in order to build a more sustainable future.
+
+At the end of 2023, Twilio’s sustainability ambitions reached a major milestone: we received validation for our near-term science-based greenhouse gas emissions reduction target by the Science Based Targets initiative (SBTi).19 SBTi is a UN-backed global body that independently assesses companies’ targets and has validated that Twilio’s is aligned with 1.5°C trajectory across all three scopes of greenhouse gas emissions.
+
+Back to top
+
+Our science-based greenhouse gas emissions reduction target
+
+Our target focuses on reducing the emissions associated with our offices and data centers as well as per-employee business travel and commuting, and having the majority of our suppliers based on emissions set their own science-based targets (SBTs). Learn more about our target by clicking on the details to the right.
+
+Sharing our progress
+
+We prioritize transparent communication of our sustainability efforts to stakeholders through our Impact and DEI Report. Additionally, we engage with select ESG raters to benchmark our efforts against industry standards. When addressing customer sustainability inquiries, we share our progress privately through platforms like EcoVadis and respond to specific Carbon Disclosure Project (CDP) questions. Through these efforts, we uphold our commitment to transparency, accountability, and dialogue, ensuring stakeholders are informed partners in our sustainability journey.
+
+Twilio commits to reduce absolute scope 1 and 2 GHG emissions 54.6% by 2032 from a 2019 base year. Twilio also commits to reduce absolute scope 3 GHG emissions covering fuel- and energy-related activities and upstream leased assets 32.5% within the same timeframe.
+
+2023 Progress:
+
+25% reduction of absolute scope 1 and 2 achieved20
+
+59% increase of relevant absolute scope 321
+
+We aim to address our scope 1 and 2 emissions as well as our scope 3 emissions covering fuel- and energy-related activities and upstream leased assets by increasing efficiency and shifting our electricity consumption to clean, renewable sources. Learn more about our sustainable workplaces and cloud and data center efforts.
+
+Twilio commits to reduce scope 3 GHG emissions from business travel and employee commuting 61.1% per full-time employee by 2032 from a 2019 base year.
+
+2023 Progress:
+
+40% reduction per full-time employee achieved
+
+We aim to address our scope 3 GHG emissions from business travel and employee commuting by optimizing travel budgets, traveling efficiently, and continuing our remote-first work culture. Learn more about our sustainable travel and commuting efforts.
+
+Twilio commits that 61.8% of its suppliers by emissions covering purchased goods and services and capital goods, will have science-based targets by 2027.
+
+2023 Progress:
+
+37% achieved22
+
+We aim to address supplier-based emissions by educating our suppliers on science-based targets (SBTs) and engaging with them as they embark on their own sustainability journeys. Learn more about our sustainable supply chain efforts.
+
+Back to top
+
+Sustainable operations
+
+Environmental management
+
+While we believe everyone at Twilio has a role to play, a few key teams are responsible for our environmental management and performance, including Workplaces, Sourcing, Finance, and Twilio.org. Each team tackles the sustainability opportunities in their respective domains, and all work together collaboratively towards our sustainability goals. Representatives of these teams are members of our ESG Management Committee, which is sponsored by our Chief Social Impact Officer and whose strategies and programs are subject to the oversight of the Nominating and Corporate Governance Committee of Twilio’s Board.
+
+We actively assess, manage, and improve the environmental and energy performance of our workplaces through an environmental management framework and software solutions. We partner with Watershed, an emissions management and climate platform, to compile data for emissions tracking and management following the Greenhouse Gas Protocol’s guidelines.
+
+We believe that education about and awareness of our environmental management and sustainability efforts are important to further our progress. We aim to educate Twilions, our suppliers, and our customers about our sustainability efforts and related performance through our Impact and DEI Report, meetings, surveys, and training.
+
+While Twilio operates as a remote-first company, we maintain a select portfolio of workplaces worldwide. In these locations, our commitment extends to preserving and efficiently managing energy and emissions, optimizing water consumption, prioritizing sustainable sourcing, minimizing waste, and educating employees on sustainability efforts. Our San Francisco headquarters is LEED Gold certified and powered by 100% renewable energy.
+
+We work closely with our data center and cloud computing partners to measure our emissions. We work to minimize data center energy use by utilizing containerization, server virtualization, selecting efficient equipment that meets environmental industry standards, and streamlining our code to reduce energy consumption. Additionally, some of our colocation and cloud computing partners have established 100% renewable energy goals. Together, these efforts help us provide a reliable experience for our customers, while reducing environmental impacts.
+
+We address travel and commuting emissions by managing travel budgets, balancing in-person versus virtual meetings, and fostering awareness of sustainable travel practices among our employees. We advance sustainable air travel by offering employees insights into the estimated greenhouse gas emissions for each flight booked through our online system. Furthermore, our travel policy prioritizes economy class bookings for the majority of our flights, which generate lower greenhouse gas emissions than first or business class seats. As a remote-first company, Twilio enables individuals and teams (job-permitting) to work across the globe, significantly reducing the need for employee commuting compared to companies with in-office policies.
+
+We strive to embed sustainability into our purchasing practices, from our events and IT equipment to vendors and professional services. We are building out our sustainable sourcing program to track our suppliers with SBTs and engage with our other suppliers to set their own emission reduction targets. Read more about sustainable sourcing in our Supplier Code of Conduct.
+
+We dispose of hardware in partnership with global asset disposition providers that work to recycle wherever possible and properly decommission and dispose of hardware in compliance with local laws. In addition, our asset disposition processes ensure we remove all hazardous equipment and participate in hardware take-back schemes and donation programs whenever possible.
+
+Our 2023 footprint23
+
+Environmental sustainability data
+
+Back to top
+
+Building an ethical business
+
+Effective corporate governance practices are important for business execution and ultimately benefit our shareholders. Our commitment to corporate governance is articulated in our most recent annual Proxy Statement available on our Investor Relations webpage, which provides detailed information on our board structure and composition, stockholder rights and engagement, executive compensation, and other key governance topics. Additional information can also be found on our Investor Relations webpage.
+
+Twilio is committed to sound governance and oversight of our impact on our community and environment. For this reason, our Board’s Nominating and Corporate Governance Committee has direct oversight in its charter of our environmental, social, and governance (ESG) activities, programs, and disclosures. The Nominating and Corporate Governance Committee is regularly informed of Twilio’s ESG progress and major updates.
+
+Our Chief Social Impact Officer serves as our ESG Executive Sponsor. Her responsibilities include ESG strategy approval, implementation oversight, addressing ESG-related matters as they arise, and sponsorship of Twilio’s ESG Management Committee. This committee is led by the Director of Environmental Sustainability and ESG, and is responsible for establishing, implementing, and tracking Twilio’s ESG strategies and programs, subject to the oversight of our Board’s Nominating and Corporate Governance Committee.
+
+For more information on our ESG documents and disclosures, visit our Investor Relations webpage.
+
+In 2022 Twilio conducted our first materiality25 assessment with support from Business for Social Responsibility (BSR), a nonprofit sustainable business network and consultancy. Through internal and external stakeholder engagement and in-depth research on the broader technology industry and sustainability landscape, we identified the environmental, social, and governance issues that are most important to our stakeholders, including employees, customers, investors, and community partners, and to our long-term business success. This assessment enables us to prioritize our ESG efforts and establish goals that feed into our ESG strategy, while also complementing Twilio’s overarching company goals.
+
+Important issues identified (in alphabetical order):
+
+Board & Executive Compensation, Independence, & Diversity
+
+Climate Impact, Resilience, & Disclosure
+
+Data Privacy and Security
+
+Diversity, Equity, & Inclusion
+
+Emerging Technology and Ethics
+
+Employee Health and Safety
+
+Ethical Business Practices
+
+Governance, Accountability, and Culture
+
+Products Address Environmental and Social Challenges
+
+Responsible Product Use
+
+Systemic Risks from Technology Disruptions
+
+Talent Attraction, Development, & Retention
+
+Tech for Good
+
+We examine risks from a top-down and bottom-up approach and escalate risks to members of our management team and our Board of Directors. Our Board of Directors is ultimately responsible for risk oversight, and our board committees assist our Board of Directors in fulfilling their oversight responsibilities.
+
+Potential ESG risks are intentionally integrated into our enterprise risk assessment processes, and the Enterprise Risk Management function is also included in our ESG materiality assessment and subsequent ESG Strategy. Types of ESG risks assessed include operational risks from potential climate-related physical impact events, and tightening of regulatory requirements regarding ESG and climate disclosures.
+
+Our risk management structure is further described in our most recent annual Proxy Statement available on our Investor Relations webpage.
+
+Our commitment to ethical business practices is captured in the Twilio Code of Conduct, which applies to all Twilio employees, consultants, contractors, suppliers, and board members. Upon joining Twilio, and annually thereafter, all employees are required to complete a series of compliance training courses covering the Code of Conduct, which address topics including ethical business conduct, data privacy, information security, anti-corruption, anti-harassment, reporting ethics and compliance concerns, and our anti-retaliation policy. The format of this training is an online course with industry-specific scenarios and interactive elements including knowledge-check questions. Through this training we capture written employee certification of compliance with the Code of Conduct.
+
+On the supplier side, we maintain the Twilio Supplier Code of Conduct, which outlines Twilio’s ethics, compliance, and legal-related expectations for suppliers and any subcontractors, providers, or agents that they use. Our contract template and Online Purchase Order Terms & Conditions require suppliers to comply with our Supplier Code of Conduct. In addition, Twilio has adopted a third party risk management process which includes screening vendors, suppliers, carriers, and customers against sanctioned parties lists. This third party risk management program is designed to ensure compliance with the Office of Foreign Assets Control (OFAC) legal requirements. Through these efforts, we are demonstrating our commitment to legal compliance as well as ethical business practices, transparency, and integrity.
+
+To ensure protection of whistleblower’s employment status and protection from workplace harassment, discrimination, and retaliation, Twilio has adopted the following policies:
+
+The Code of Conduct outlines Twilio’s commitment to providing a work environment that is free of discrimination, harassment, and retaliation for all employees, interns, apprentices, and contingent workers.
+
+The Global Speak-Up Policy captures Twilio’s prohibition on retaliation for raising good faith concerns about a violation of policy or law or participating in an investigation relating to a violation of policy or law, or assisting with an inquiry or investigation of a potential violation.
+
+Twilio is committed to doing our part to advance human rights and to identifying and mitigating risks that business operations could pose to such rights. Twilio’s Human Rights Statement outlines our approach to human rights issues including privacy, labor practices, anti-discrimination, anti-harassment, anti-retaliation, and diversity in the workplace.
+
+Twilio has worked to encourage governments to support workforce education and training, marriage equality, broadband access, and voting access.
+
+Twilio does not have a political action committee (PAC) and does not contribute to any individual political candidates. Total financial contributions to political parties, politicians, and PACs in 2020-2023: $0 USD.
+
+Twilio and its lobbying consultants disclose our U.S. lobbying activities and associated costs, which can be found on the House of Representatives and Senate Lobbying Disclosure Act websites. For the EU, Twilio voluntarily reports lobbying contributions and activities to the Transparency Register.
+
+The United Nations (UN) Sustainable Development Goals (SDGs) offer a blueprint for businesses, governments, and civil society organizations to come together as global partners to address society’s most pressing issues. At Twilio, we are committed to helping advance this global mission to create an equitable and sustainable world.
+
+We concentrate our efforts on the areas where we believe we can have the greatest impact. Specifically, we focus on advancing equitable long-term wellbeing, supporting people displaced by humanitarian crises, and enabling climate action. We believe our work contributes most to addressing the following 9 SDGs: No poverty; Zero hunger; Good health and well-being; Quality education; Gender equality; Reduced inequalities; Climate action; Peace, justice and strong institutions; and Partnerships for the goals.
+
+Back to top
+
+Building a trusted business
+
+While each Twilion plays an important role in helping to ensure the protection of personal data and compliance with data privacy laws, Twilio’s Privacy team manages our global privacy program, overseen by our Chief Privacy Officer with the support of an international team of privacy lawyers and compliance specialists. The foundation of the program is our Binding Corporate Rules (BCRs) for when we act as a controller or a processor of data, which were approved by European Data Protection Regulators in 2018 and are applied globally to align our processes and practices to the highest standards. In 2022, Twilio became certified under the Asia-Pacific Economic Cooperation (APEC) Cross-Border Privacy Rules (CBPRs) and Privacy Recognition for Processors (PRP) systems. These voluntary and enforceable privacy certifications demonstrate our commitment to privacy and facilitate international data transfers from APEC countries participating in these programs. In 2023, we converted our EU-US Privacy Shield Certification to the replacement EU-US Data Privacy Framework certification to enable transfers of personal data from the EU, UK, and Switzerland to our US operations. Our participation in these programs requires that we regularly audit or re-certify our compliance.
+
+We have implemented policies and procedures that facilitate compliance with applicable privacy laws, including the California Consumer Privacy Act (CCPA) and other US state privacy laws, General Data Protection Regulation (GDPR), UK GDPR, and others. We work to use privacy by design in the review and building processes for our products, services, and internal business operations. We publish privacy-specific guidance in Twilio’s public-facing help center to help our customers use our products in a way that will help them meet their compliance obligations and to demonstrate our commitment to privacy. To learn more about our commitment to protecting the privacy of our developer ecosystem, customers, and users, visit our Privacy webpage and Privacy Notice.
+
+At Twilio, securing communications is a top priority and at the core of our platform. Twilio strives to maintain the confidentiality, availability, and integrity of data and services by proactively mitigating cybersecurity risks and helping customers meet regulatory demands. While each Twilion plays an important role in helping to ensure compliance with data security standards, there are a few key teams responsible for our data security. Our security program is overseen by our Chief Digital Officer and focuses on securing our people, our products, and our data to maintain security in every customer interaction. We follow a set of core security principles to guide our tested security posture. Our security risk management framework ensures ongoing risk identification, assessment, treatment, and reporting, while ensuring continuous delivery of platform products and services. All of our employees and contractors are required to complete security training every year, and we use physical and procedural safeguards to help keep our facilities and equipment secure. We assess and continuously monitor the security posture of our critical third party vendors. As part of our information security management system, Twilio is formally audited by third parties against frameworks such as ISO/IEC 27001, SOC, and PCI on a regular basis. To learn more about our security practices, principles, and certifications, visit our Trust Center.
+
+Twilio takes measures to protect customers and their services through our high-availability platform architecture, resiliency practices, and requirements built into our development and operational processes. Twilio’s Business Continuity program establishes a framework to ensure continued delivery of our products and services by following an annual program cadence of core activities ranging from the business impact analysis (BIA), plan development and updates, and testing and exercises. Twilio performs an annual BIA to understand business requirements, set recovery objectives, and identify gaps and areas of vulnerability. Risks identified during the BIA will be included in the One Twilio Risk Management team’s risk assessment process. The requirements and objectives set during the BIA inform the strategy analysis. Recovery strategies are documented in the Business Continuity Plans (BCP) to specify how teams will respond and recover during a disruptive event. BCPs are tested via procedural walkthroughs, tabletop exercises, or simulations. Twilio’s Business Continuity program core activities are updated, reviewed, and approved by leadership annually, or as significant organizational changes occur. Additionally, Twilio leverages specialized tools to monitor server performance, data, and traffic load capacity and increase the capacity or shift traffic to relieve any suboptimal server performance or capacity overload. Twilio’s approach to resilience is aligned to ISO 22301 Business Continuity Management System and the Business Continuity Institutes’ Good Practice Guidelines. Learn more about our Business Continuity program.
+
+To protect users from bad actors, spam, and unwanted communications, we diligently protect the security, privacy, and availability of our platform with intelligent software and resilient infrastructure so our customers can deliver secure, engaging experiences on a global scale. We’re committed to building a trusted ecosystem across all telco stakeholders. To do our part to improve the industry and our customers’ experiences, Twilio has engaged in a number of industry-wide and product initiatives that enhance trust and deliverability of wanted messages. Twilio’s Acceptable Use Policy outlines the rules customers must abide by in order to use Twilio’s platform. Twilio’s Acceptable Use Policy is geared toward protecting not only Twilio’s platform, but also Twilio’s customers, recipients of communications, and the public at large. For example, Twilio prohibits any activity on its platform that is illegal, deceptive, or deemed to be hate speech. Twilio is also a trusted member of national and international committees that are shaping the future of telecommunications. Learn more about our commitment to trusted communications.
+
+Twilio is dedicated to using Artificial Intelligence (AI) in a manner that is ethical, legal, and responsible while also respecting human rights, intellectual property rights, and privacy rights. Learn more about Twilio’s approach to trusted AI here.
+
+Twilio’s design systems team is committed to helping everyone at Twilio build inclusive and accessible software. Paste, Twilio’s design system, adheres to the international standard Web Content Accessibility Guidelines (WCAG 2.1 AA). The system provides accessibility tips and an inclusive design guide to use while building new products. Paste aims to raise the floor for all Twilio products to start their product development lifecycle with accessibility as a baseline and is used across our entire product portfolio. To share our learnings, we have open-sourced the Paste design system so our customers can leverage business best practices when building their own customer engagement software.
+
+This index maps our disclosures to the SASB standards for the Software & IT Services industry.
+
+Back to top
+
+Forward-looking statements
+
+This report contains forward-looking statements within the meaning of the federal securities laws, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events and can be identified by words such as “may,” “can,” “will,” “would,” “should,” “expects,” “plans,” “anticipates,” “intends,” “could,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “forecasts,” “potential,” or “continue” or the negative of these words or other similar terms or expressions. Forward-looking statements contained in this report include, but are not limited to, statements about: Twilio’s plans, expectations, timing, and ability to achieve its environmental, social, and governance (ESG) goals, its diversity, equity, and inclusion (DEI) goals, its science-based targets (SBTs), commitments and goals, its Sustainable Development Goals, and other goals discussed in this report; Twilio’s expectations regarding its ESG, DEI and SBT programs and initiatives; the future development of Twilio’s sustainable sourcing program; and plans, expectations and goals around the next decade of impact. You should not rely upon forward-looking statements as predictions of future events.
+
+The outcome of the events described in these forward-looking statements is subject to known and unknown risks, uncertainties, and other factors that may cause Twilio’s actual results,
+
+performance, or achievements to differ materially from those described in the forward-looking statements, including, among other things: changes in economic conditions; changes in industry standards, laws, and regulations; changes to the operations of the social impact organizations we partner with; and the impact of social and environmental factors beyond Twilio’s control, including social unrest, natural disasters, and similar events.
+
+The forward-looking statements contained in this report are also subject to additional risks, uncertainties, and factors, including those more fully described in Twilio’s most recent filings with the Securities and Exchange Commission (“SEC”), including its most recent Form 10-K and Form 10-Q, and subsequent periodic and current reports and other filings that Twilio makes with the SEC from time to time.
+
+Forward-looking statements represent management’s beliefs and assumptions only as of the date such statements are made. Twilio undertakes no obligation to update any forward-looking statements made in this report to reflect events or circumstances after the date of this report or to reflect new information or the occurrence of unanticipated events, except as required by law.
+
+Back to top
+
+2023 Impact and DEI Report
+
+Using our technology for good
+
+Read chapter 1
+
+Investing for positive social impact
+
+Read chapter 2
+
+Building a culture by empowering our people
+
+Read chapter 3
+
+Building a responsible, ethical business
+
+Chapter 4
+
+Footnotes
+
+18 https://www.ipcc.ch/report/ar6/syr/resources/press/
+
+19 Twilio received SBTi validation at the end of 2023. SBTi published Twilio’s commitment on its website on January 4, 2024 (https://sciencebasedtargets.org/target-dashboard).
+
+20 This includes both utility sourced renewable energy and renewable energy certificates.
+
+21 This includes both utility sourced renewable energy and renewable energy certificates. We recognize, like many companies, that achieving the needed reductions in scope 3 are challenging, and we will continue to work to address this area of our footprint. This target covers scope 3 GHG emissions from fuel- and energy-related activities and upstream leased assets, which account for only 1.2% of our 2023 emissions.
+
+22 37% includes some suppliers that have commitments to set science-based targets but have not yet set them. Excluding commitments, suppliers that have set science-based targets comprise 25% of our suppliers by emissions.
+
+23 For more information on our carbon footprint, see our detailed environmental sustainability data. We measured our 2019-2023 carbon footprint in partnership with Watershed. Watershed methodology follows guidelines from the GHG Protocol Corporate Accounting and Reporting Standard and the Corporate Value Chain (Scope 3) Accounting and Reporting Standard, inclusive of scope 1, 2, and all relevant scope 3 categories. Watershed’s methodology received third-party verification and uses the most recent and relevant emissions guidance. Watershed is a CDP gold accredited global software solutions provider. We received external auditing from Apex, who verified our 2022 and 2023 scope 1 and 2 emissions. Apex is a silver verification solutions provider accredited with CDP, and all of Apex’s lead auditors are either ISO 50001 or ISO 14001 Lead Auditor certified. Starting in the 2022 footprint, we incorporated region-specific power usage effectiveness values from one of our cloud computing partners into the cloud electricity emissions calculation, and we also collected access swipe data across key offices to estimate the percentage of employees commuting into the office. We now separately disclose optional scope 3.6 emissions from business travel accommodations
+
+and optional scope 3.7 emissions from energy usage from employees working from home. We still share these categories for transparency, but they are not included in our science-based target per SBTi requirements. Scope 3.6 emissions from business travel include radiative forcing for flights. Optional scope 3.7 emissions from employees working from home are calculated using location-specific carbon intensity factors to account for differences in emission intensity of the energy sources where our employees are working from home. We acquired multiple companies between 2019 and 2022. GHG protocol requires that the emissions from each acquired company are included within our footprint prior to the acquisition close date as well as moving forward. Watershed estimated historical emissions for each acquisition using a proprietary machine learning algorithm, and the estimated historical emissions from applicable acquisitions are included in addition to our actual emissions for the applicable years. After the acquisition close date, these companies are folded into our systems, and their emissions appear in our carbon footprint using actual data. We have restated our 2019-2021 carbon footprints to better account for well-to-tank emissions in scopes 3.3, 3.6, and 3.8 as well as flight fare class for scope 3.6. Our 2023 market-based scope 2 emissions include Renewable Energy Certificates (RECs). Our scope 3.6 business travel emissions increased between 2022 and 2023 in part due to increased UK Department for Environment, Food & Rural Affairs (DEFRA) emission factors for 2023 that were primarily higher because of reduced flight load factors as a consequence of the COVID-19 pandemic.
+
+24 Our 2023 market-based scope 2 percentage renewable electricity decreased relative to 2022 primarily due to an increase in grid-based electricity for our data centers. We aim to address our scope 2 emissions by increasing efficiency and shifting our electricity consumption to clean, renewable sources.
+
+25 In this report and in related communications, the term “materiality” and similar terms, when used in the context of environmental, social and governance topics, are defined in reference to sustainability frameworks and are not meant to correspond to the concept of materiality under the U.S. securities laws and/or disclosures required by the U.S. Securities and Exchange Commission.
+
