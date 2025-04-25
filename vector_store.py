@@ -360,19 +360,19 @@ class MilvusVectorStore:
             logger.warning(f"Collection {self.collection_name} does not exist")
 
 
-# Example usage
-"""if __name__ == "__main__":
+"""# Example usage
+if __name__ == "__main__":
     # Initialize vector store
     vector_store = MilvusVectorStore(
         collection_name="publicDocuments",
         embedding_model="text-embedding-3-small",
         milvus_uri="docling_vector_store.db",
-        load_local=False,
-        reset_collection=True
+        load_local=True,
+        reset_collection=False
     )
     
     # Add documents (can be a file or directory)
-    documents_dir = "./publicDocuments"  # Path to your documents
+    documents_dir = "./new documents"  # Path to your documents
     vector_store.add_documents(documents_dir)
     
     # Example search
